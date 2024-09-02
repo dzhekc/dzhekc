@@ -1,8 +1,8 @@
 <h3>Technology stack</h3>
 
-![Python|50](https://simpleicons.org/icons/python.svg)
-![Django|100](https://blog.skillfactory.ru/wp-content/uploads/2023/02/django_logo.svg-1594273.png)
-![Beautifulsoup|100px](https://www.jeveuxetredatascientist.fr/wp-content/uploads/2022/06/BeautifulSoup-1080x428.jpg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 <h3>Contacts</h3>
 
